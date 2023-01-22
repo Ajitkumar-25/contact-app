@@ -1,8 +1,6 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Fredoka One', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: black;
@@ -17,6 +15,15 @@ code {
 }
 .formpage{
   color: aliceblue;
-
-
+  padding: 5px;
+}
+.list{
+  color: aliceblue;
+}
+.card{
+  background-color: black;
+  color: aliceblue;
+  border: 2px solid wheat;
+  font-size: medium;
+ 
 }
