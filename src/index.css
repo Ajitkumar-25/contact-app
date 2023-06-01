@@ -11,7 +11,7 @@ code {
     monospace;
 }
 .heading{
-  color: aliceblue;
+  color: #ffc107;
 }
 .formpage{
   color: aliceblue;
@@ -23,7 +23,7 @@ code {
 .card{
   background-color: black;
   color: aliceblue;
-  border: 2px solid wheat;
+  border: 2px solid #ffc107;;
   font-size: medium;
  
 }

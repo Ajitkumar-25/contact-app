@@ -21,7 +21,7 @@ class AddContact extends React.Component {
   render() {
     return (
       <div className="formpage">
-        <h2>Add Contact</h2>
+        <h2 style={{color:"#ffc107"}}>Add Contact</h2>
         <form onSubmit={this.add}>
           <div className="form-group">
             <label style={{ padding: "15px 0px 12px 0px" }} htmlFor="name">
@@ -64,6 +64,7 @@ class AddContact extends React.Component {
             Submit
           </button>
         </form>
+        <hr></hr>
         <br></br>
       </div>
     );
